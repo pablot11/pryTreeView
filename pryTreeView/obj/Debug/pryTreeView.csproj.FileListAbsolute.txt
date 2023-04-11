@@ -1,0 +1,11 @@
+D:\Escritorio\pryTreeView\bin\Debug\pryTreeView.exe.config
+D:\Escritorio\pryTreeView\bin\Debug\pryTreeView.exe
+D:\Escritorio\pryTreeView\bin\Debug\pryTreeView.pdb
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.csproj.AssemblyReference.cache
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.Form1.resources
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.Properties.Resources.resources
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.csproj.GenerateResource.cache
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.exe
+D:\Escritorio\pryTreeView\obj\Debug\pryTreeView.pdb

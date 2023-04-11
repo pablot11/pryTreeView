@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryTreeView", "pryTreeView.csproj", "{DDDA6C08-A558-49B7-AEAC-FD5E1BEDD22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDA6C08-A558-49B7-AEAC-FD5E1BEDD22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDA6C08-A558-49B7-AEAC-FD5E1BEDD22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDA6C08-A558-49B7-AEAC-FD5E1BEDD22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDA6C08-A558-49B7-AEAC-FD5E1BEDD22E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EEC0AE6-65DB-4119-ACC6-CB06B6938FCE}
+	EndGlobalSection
+EndGlobal
